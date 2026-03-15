@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project-Praktikum-Tugas-SIWEB
 =======
 # Sistem Manajemen Sepatu Cibaduyut Shoes
