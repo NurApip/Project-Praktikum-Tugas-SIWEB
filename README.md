@@ -91,4 +91,3 @@ php artisan serve → http://127.0.0.1:8000
 Project ini siap production, tinggal `composer install`.
 
 Terima kasih .
->>>>>>> 86b0ad1 (TA Untuk Week4  pemindahan project php native  ke framework  laravel)
