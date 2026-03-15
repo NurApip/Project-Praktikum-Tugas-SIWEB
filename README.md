@@ -88,6 +88,5 @@ php artisan serve → http://127.0.0.1:8000
 
 **JS Persistence**: LocalStorage dark mode, sessionStorage wishlist – tetep work cross refresh.
 
-Project ini siap production, tinggal `composer install`.
 
 Terima kasih .
