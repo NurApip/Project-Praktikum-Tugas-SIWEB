@@ -40,7 +40,3 @@ TA_week3/
 ├── images/            # Foto sepatu + bg
 ├── LICENSE
 └── README.md
-```
-
-Cara jalanin: Buka `index.php` di browser (XAMPP/php built-in). Login: admin/123, centang Remember Me optional. Beli/wishlist berubah real-time, dark mode toggle navbar.
-
